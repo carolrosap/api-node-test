@@ -4,7 +4,7 @@
   "description": "API JSON Server no Heroku",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT"
+    "start": "json-server --watch db.json --static false --port $PORT"
   },
   "keywords": [],
   "author": "",

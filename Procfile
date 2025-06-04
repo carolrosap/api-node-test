@@ -1,1 +1,2 @@
-web: json-server --watch db.json --port $PORT
+web: json-server --watch db.json --static false --port $PORT
+
