@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0",  // Mudei para dependencies
+    "express": "^5.1.0",
     "express-session": "^1.18.1",
     "json-server": "^0.17.0"
   }
