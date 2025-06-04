@@ -1,9 +1,10 @@
 const express = require('express');
 const session = require('express-session');
+const MemoryStore = require('memorystore')(session);
 const jsonServer = require('json-server');
 const path = require('path');
 const fs = require('fs');
-const cors = require('cors'); // 👈 Importante!
+const cors = require('cors');
 
 const app = express();
 const router = jsonServer.router(path.join(__dirname, 'db.json'));
@@ -11,40 +12,44 @@ const middlewares = jsonServer.defaults();
 
 const isProduction = process.env.NODE_ENV === 'production';
 
-// 🛡️ CORS: permite seu frontend acessar a API com cookies
-const allowedOrigins = ["http://localhost:5500", "http://127.0.0.1:5500"];
+const allowedOrigins = ['http://localhost:5500', 'http://127.0.0.1:5500'];
 
+// ✅ CORS configurado para aceitar o frontend com cookies
 app.use(cors({
   origin: function (origin, callback) {
     if (!origin || allowedOrigins.includes(origin)) {
-      return callback(null, true);
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
     }
-    return callback(new Error("Not allowed by CORS"));
   },
   credentials: true,
 }));
 
-
-// 🛡️ Sessão: configurada para HTTPS e cross-site cookies
+// ✅ Sessão com armazenamento persistente (MemoryStore)
 app.use(session({
   secret: 'mySecretKey',
   resave: false,
   saveUninitialized: true,
+  store: new MemoryStore({
+    checkPeriod: 86400000, // limpa sessões expiradas a cada 24h
+  }),
   cookie: {
-    secure: isProduction,                 // HTTPS no Heroku
-    sameSite: isProduction ? 'none' : 'lax' // permite cross-origin no Heroku
+    secure: isProduction,                // HTTPS no Heroku
+    sameSite: isProduction ? 'none' : 'lax'
   }
 }));
 
 app.use(express.json());
 app.use(middlewares);
 
-// 🧠 Carrega o conteúdo de db.json na sessão
+// 🔄 Carrega dados do db.json na sessão
 function loadData() {
   const dbData = fs.readFileSync(path.join(__dirname, 'db.json'));
   return JSON.parse(dbData);
 }
 
+// ✅ Inicializa a base de dados por sessão
 app.use((req, res, next) => {
   if (!req.session.db) {
     req.session.db = loadData();
@@ -52,7 +57,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// ✅ Validação dos dados de usuário
+// 🔍 Valida estrutura dos dados de usuário
 function validateUserData(userData) {
   const allowedFields = ['name', 'age', 'email'];
   const extraFields = Object.keys(userData).filter(key => !allowedFields.includes(key));
@@ -65,7 +70,7 @@ function validateUserData(userData) {
   return { isValid: true };
 }
 
-// 🧩 Rotas personalizadas usando a sessão
+// ✅ Rotas da API baseadas em sessão
 app.use((req, res, next) => {
   if (req.method === 'POST' && req.url === '/users') {
     const newUser = req.body;
@@ -110,7 +115,7 @@ app.use((req, res, next) => {
   next();
 });
 
-// 🔎 Endpoints da sessão
+// ✅ GET /users e GET /users/:id
 app.get('/users', (req, res) => {
   res.json(req.session.db.users || []);
 });
@@ -124,10 +129,11 @@ app.get('/users/:id', (req, res) => {
   res.json(user);
 });
 
-// 🔄 JSON Server (mock API para outros recursos)
+// 🧪 JSON Server em /api (rotas extras, se desejar)
 app.use('/api', router);
 
+// 🚀 Inicializa o servidor
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  console.log(`API rodando em https://api-node-test-6c4b0a5d4c87.herokuapp.com`);
+  console.log(`API rodando em http://localhost:${port}`);
 });
