@@ -17,23 +17,6 @@ app.use(session({
 
 app.use(express.json());
 
-app.use((req, res, next) => {
-  if (req.is('application/json')) {
-    let rawData = '';
-    req.on('data', chunk => { rawData += chunk; });
-    req.on('end', () => {
-      try {
-        req.body = JSON.parse(rawData);
-        next();
-      } catch (error) {
-        res.status(400).json({ error: 'Corpo da requisição não é um JSON válido' });
-      }
-    });
-  } else {
-    next();
-  }
-});
-
 app.use(middlewares);
 
 function loadData() {
