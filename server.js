@@ -12,10 +12,18 @@ const middlewares = jsonServer.defaults();
 const isProduction = process.env.NODE_ENV === 'production';
 
 // 🛡️ CORS: permite seu frontend acessar a API com cookies
+const allowedOrigins = ["http://localhost:5500", "http://127.0.0.1:5500"];
+
 app.use(cors({
-  origin: "http://localhost:5500", // ou substitua pelo domínio real do frontend
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+    return callback(new Error("Not allowed by CORS"));
+  },
   credentials: true,
 }));
+
 
 // 🛡️ Sessão: configurada para HTTPS e cross-site cookies
 app.use(session({
