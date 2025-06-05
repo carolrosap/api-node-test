@@ -600,5 +600,2107 @@
       "age": 45,
       "email": "kaiquefreitas@monteiro.br"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Camil Arroz 5.5 kg",
+      "category": "Mercearia",
+      "price": 31.14,
+      "quantity": 251
+    },
+    {
+      "id": 2,
+      "name": "Camil Feijão 1 kg",
+      "category": "Mercearia",
+      "price": 8.99,
+      "quantity": 269
+    },
+    {
+      "id": 3,
+      "name": "Guarani Açúcar 1.5 kg",
+      "category": "Mercearia",
+      "price": 3.93,
+      "quantity": 171
+    },
+    {
+      "id": 4,
+      "name": "Vitarella Macarrão 0.5 kg",
+      "category": "Mercearia",
+      "price": 3.85,
+      "quantity": 185
+    },
+    {
+      "id": 5,
+      "name": "Hellmann's Maionese 500 g",
+      "category": "Mercearia",
+      "price": 10.67,
+      "quantity": 112
+    },
+    {
+      "id": 6,
+      "name": "Predilecta Molho de tomate 340 g",
+      "category": "Mercearia",
+      "price": 3.63,
+      "quantity": 183
+    },
+    {
+      "id": 7,
+      "name": "Dona Benta Farinha 1.5 kg",
+      "category": "Mercearia",
+      "price": 5.72,
+      "quantity": 215
+    },
+    {
+      "id": 8,
+      "name": "Nestlé Leite condensado 445 g",
+      "category": "Mercearia",
+      "price": 7.13,
+      "quantity": 264
+    },
+    {
+      "id": 9,
+      "name": "Refinador Sal 0.5 kg",
+      "category": "Mercearia",
+      "price": 2.28,
+      "quantity": 223
+    },
+    {
+      "id": 10,
+      "name": "Ninho Leite em pó 350 g",
+      "category": "Mercearia",
+      "price": 17.15,
+      "quantity": 177
+    },
+    {
+      "id": 11,
+      "name": "Nesquik Chocolate em pó 200 g",
+      "category": "Mercearia",
+      "price": 10.88,
+      "quantity": 266
+    },
+    {
+      "id": 12,
+      "name": "Heinz Ketchup 400 g",
+      "category": "Mercearia",
+      "price": 8.35,
+      "quantity": 170
+    },
+    {
+      "id": 13,
+      "name": "Heinz Mostarda 250 g",
+      "category": "Mercearia",
+      "price": 4.75,
+      "quantity": 159
+    },
+    {
+      "id": 14,
+      "name": "3 Corações Café 1 kg",
+      "category": "Bebidas",
+      "price": 24.54,
+      "quantity": 190
+    },
+    {
+      "id": 15,
+      "name": "Piracanjuba Leite 0.5 L",
+      "category": "Bebidas",
+      "price": 4.37,
+      "quantity": 63
+    },
+    {
+      "id": 16,
+      "name": "Pepsi Refrigerante 1.5 L",
+      "category": "Bebidas",
+      "price": 7.94,
+      "quantity": 282
+    },
+    {
+      "id": 17,
+      "name": "Heineken Cerveja 0.35 L",
+      "category": "Bebidas",
+      "price": 4.77,
+      "quantity": 54
+    },
+    {
+      "id": 18,
+      "name": "Monster Energético 350 ml",
+      "category": "Bebidas",
+      "price": 5.46,
+      "quantity": 82
+    },
+    {
+      "id": 19,
+      "name": "Powerade Isotônico 400 ml",
+      "category": "Bebidas",
+      "price": 4.76,
+      "quantity": 203
+    },
+    {
+      "id": 20,
+      "name": "Do Bem Suco 0.5 L",
+      "category": "Bebidas",
+      "price": 7.36,
+      "quantity": 220
+    },
+    {
+      "id": 21,
+      "name": "Ypê Detergente 500 ml",
+      "category": "Limpeza",
+      "price": 3.92,
+      "quantity": 71
+    },
+    {
+      "id": 22,
+      "name": "Comfort Amaciante 0.5 L",
+      "category": "Limpeza",
+      "price": 14.13,
+      "quantity": 208
+    },
+    {
+      "id": 23,
+      "name": "Tixan Sabão em pó 1 kg",
+      "category": "Limpeza",
+      "price": 13.94,
+      "quantity": 280
+    },
+    {
+      "id": 24,
+      "name": "Minuano Sabão em barra 150 g",
+      "category": "Limpeza",
+      "price": 2.76,
+      "quantity": 70
+    },
+    {
+      "id": 25,
+      "name": "Veja Desinfetante 1 L",
+      "category": "Limpeza",
+      "price": 5.08,
+      "quantity": 75
+    },
+    {
+      "id": 26,
+      "name": "Qboa Água sanitária 1.5 L",
+      "category": "Limpeza",
+      "price": 3.56,
+      "quantity": 16
+    },
+    {
+      "id": 27,
+      "name": "Palmolive Sabonete 1 un",
+      "category": "Higiene",
+      "price": 2.34,
+      "quantity": 298
+    },
+    {
+      "id": 28,
+      "name": "Head & Shoulders Shampoo 500 ml",
+      "category": "Higiene",
+      "price": 15.84,
+      "quantity": 141
+    },
+    {
+      "id": 29,
+      "name": "Pampers Fralda descartável 30 un",
+      "category": "Higiene",
+      "price": 40.66,
+      "quantity": 130
+    },
+    {
+      "id": 30,
+      "name": "Pantene Condicionador 500 ml",
+      "category": "Higiene",
+      "price": 19.03,
+      "quantity": 253
+    },
+    {
+      "id": 31,
+      "name": "Personal Papel higiênico 12 un",
+      "category": "Higiene",
+      "price": 18.44,
+      "quantity": 183
+    },
+    {
+      "id": 32,
+      "name": "Johnson's Creme hidratante 200 ml",
+      "category": "Higiene",
+      "price": 13.09,
+      "quantity": 160
+    },
+    {
+      "id": 33,
+      "name": "Pullman Pão de forma 1 un",
+      "category": "Padaria",
+      "price": 8.73,
+      "quantity": 254
+    },
+    {
+      "id": 34,
+      "name": "Pão francês 1 un",
+      "category": "Padaria",
+      "price": 0.8,
+      "quantity": 70
+    },
+    {
+      "id": 35,
+      "name": "Baguete 1 un",
+      "category": "Padaria",
+      "price": 4.28,
+      "quantity": 259
+    },
+    {
+      "id": 36,
+      "name": "Risoles 1 un",
+      "category": "Padaria",
+      "price": 3.35,
+      "quantity": 40
+    },
+    {
+      "id": 37,
+      "name": "Coxinha 1 un",
+      "category": "Padaria",
+      "price": 3.83,
+      "quantity": 130
+    },
+    {
+      "id": 38,
+      "name": "Pastel 1 un",
+      "category": "Padaria",
+      "price": 3.9,
+      "quantity": 140
+    },
+    {
+      "id": 39,
+      "name": "Broa de milho 1 un",
+      "category": "Padaria",
+      "price": 4.46,
+      "quantity": 49
+    },
+    {
+      "id": 40,
+      "name": "Quata Queijo muçarela 0.25 kg",
+      "category": "Laticínios",
+      "price": 24.7,
+      "quantity": 126
+    },
+    {
+      "id": 41,
+      "name": "Vigor Iogurte 220 g",
+      "category": "Laticínios",
+      "price": 3.1,
+      "quantity": 161
+    },
+    {
+      "id": 42,
+      "name": "Qualy Margarina 500 g",
+      "category": "Laticínios",
+      "price": 5.8,
+      "quantity": 171
+    },
+    {
+      "id": 43,
+      "name": "Aviação Manteiga 200 g",
+      "category": "Laticínios",
+      "price": 12.9,
+      "quantity": 124
+    },
+    {
+      "id": 44,
+      "name": "Polenghi Queijo cheddar 200 g",
+      "category": "Laticínios",
+      "price": 13.71,
+      "quantity": 236
+    },
+    {
+      "id": 45,
+      "name": "Tomate 1.5 kg",
+      "category": "Hortifruti",
+      "price": 7.06,
+      "quantity": 104
+    },
+    {
+      "id": 46,
+      "name": "Banana 1.5 kg",
+      "category": "Hortifruti",
+      "price": 4.06,
+      "quantity": 242
+    },
+    {
+      "id": 47,
+      "name": "Cenoura 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.72,
+      "quantity": 224
+    },
+    {
+      "id": 48,
+      "name": "Brócolis 1 un",
+      "category": "Hortifruti",
+      "price": 5.43,
+      "quantity": 255
+    },
+    {
+      "id": 49,
+      "name": "Couve 1 un",
+      "category": "Hortifruti",
+      "price": 2.71,
+      "quantity": 151
+    },
+    {
+      "id": 50,
+      "name": "Alface 1 un",
+      "category": "Hortifruti",
+      "price": 1.94,
+      "quantity": 73
+    },
+    {
+      "id": 51,
+      "name": "Berinjela 0.5 kg",
+      "category": "Hortifruti",
+      "price": 6.8,
+      "quantity": 142
+    },
+    {
+      "id": 52,
+      "name": "Batata 1 kg",
+      "category": "Hortifruti",
+      "price": 3.36,
+      "quantity": 228
+    },
+    {
+      "id": 53,
+      "name": "Moranga 1.5 kg",
+      "category": "Hortifruti",
+      "price": 2.79,
+      "quantity": 64
+    },
+    {
+      "id": 54,
+      "name": "Laranja 0.5 kg",
+      "category": "Hortifruti",
+      "price": 3.42,
+      "quantity": 256
+    },
+    {
+      "id": 55,
+      "name": "Mamão 1.5 kg",
+      "category": "Hortifruti",
+      "price": 4.38,
+      "quantity": 160
+    },
+    {
+      "id": 56,
+      "name": "Uva 1 kg",
+      "category": "Hortifruti",
+      "price": 8.48,
+      "quantity": 270
+    },
+    {
+      "id": 57,
+      "name": "Pêra 0.5 kg",
+      "category": "Hortifruti",
+      "price": 7.64,
+      "quantity": 198
+    },
+    {
+      "id": 58,
+      "name": "Maçã 0.5 kg",
+      "category": "Hortifruti",
+      "price": 5.91,
+      "quantity": 282
+    },
+    {
+      "id": 59,
+      "name": "Camil Arroz 4.5 kg",
+      "category": "Mercearia",
+      "price": 25.95,
+      "quantity": 52
+    },
+    {
+      "id": 60,
+      "name": "Camil Feijão 1.5 kg",
+      "category": "Mercearia",
+      "price": 9.82,
+      "quantity": 187
+    },
+    {
+      "id": 61,
+      "name": "União Açúcar 0.5 kg",
+      "category": "Mercearia",
+      "price": 4.02,
+      "quantity": 84
+    },
+    {
+      "id": 62,
+      "name": "Vitarella Macarrão 1 kg",
+      "category": "Mercearia",
+      "price": 4.04,
+      "quantity": 33
+    },
+    {
+      "id": 63,
+      "name": "Hellmann's Maionese 450 g",
+      "category": "Mercearia",
+      "price": 11.75,
+      "quantity": 199
+    },
+    {
+      "id": 64,
+      "name": "Elefante Molho de tomate 340 g",
+      "category": "Mercearia",
+      "price": 3.71,
+      "quantity": 130
+    },
+    {
+      "id": 65,
+      "name": "Renata Farinha 1 kg",
+      "category": "Mercearia",
+      "price": 5.52,
+      "quantity": 80
+    },
+    {
+      "id": 66,
+      "name": "Itambé Leite condensado 395 g",
+      "category": "Mercearia",
+      "price": 6.66,
+      "quantity": 200
+    },
+    {
+      "id": 67,
+      "name": "Refinador Sal 0.5 kg",
+      "category": "Mercearia",
+      "price": 2.16,
+      "quantity": 19
+    },
+    {
+      "id": 68,
+      "name": "Itambé Leite em pó 400 g",
+      "category": "Mercearia",
+      "price": 17.9,
+      "quantity": 190
+    },
+    {
+      "id": 69,
+      "name": "Nesquik Chocolate em pó 250 g",
+      "category": "Mercearia",
+      "price": 9.77,
+      "quantity": 0
+    },
+    {
+      "id": 70,
+      "name": "Hellmann's Ketchup 350 g",
+      "category": "Mercearia",
+      "price": 7.7,
+      "quantity": 24
+    },
+    {
+      "id": 71,
+      "name": "Heinz Mostarda 150 g",
+      "category": "Mercearia",
+      "price": 6.22,
+      "quantity": 86
+    },
+    {
+      "id": 72,
+      "name": "Melitta Café 1 kg",
+      "category": "Bebidas",
+      "price": 22.64,
+      "quantity": 256
+    },
+    {
+      "id": 73,
+      "name": "Parmalat Leite 0.5 L",
+      "category": "Bebidas",
+      "price": 4.12,
+      "quantity": 104
+    },
+    {
+      "id": 74,
+      "name": "Guaraná Antarctica Refrigerante 2 L",
+      "category": "Bebidas",
+      "price": 6.81,
+      "quantity": 216
+    },
+    {
+      "id": 75,
+      "name": "Skol Cerveja 0.85 L",
+      "category": "Bebidas",
+      "price": 4.38,
+      "quantity": 39
+    },
+    {
+      "id": 76,
+      "name": "Monster Energético 350 ml",
+      "category": "Bebidas",
+      "price": 5.13,
+      "quantity": 240
+    },
+    {
+      "id": 77,
+      "name": "Gatorade Isotônico 600 ml",
+      "category": "Bebidas",
+      "price": 4.77,
+      "quantity": 150
+    },
+    {
+      "id": 78,
+      "name": "Do Bem Suco 1 L",
+      "category": "Bebidas",
+      "price": 6.1,
+      "quantity": 297
+    },
+    {
+      "id": 79,
+      "name": "Ypê Detergente 500 ml",
+      "category": "Limpeza",
+      "price": 3.8,
+      "quantity": 26
+    },
+    {
+      "id": 80,
+      "name": "Downy Amaciante 1.5 L",
+      "category": "Limpeza",
+      "price": 11.95,
+      "quantity": 257
+    },
+    {
+      "id": 81,
+      "name": "Omo Sabão em pó 1 kg",
+      "category": "Limpeza",
+      "price": 16.61,
+      "quantity": 59
+    },
+    {
+      "id": 82,
+      "name": "Minuano Sabão em barra 150 g",
+      "category": "Limpeza",
+      "price": 3.19,
+      "quantity": 12
+    },
+    {
+      "id": 83,
+      "name": "Pinho Sol Desinfetante 1 L",
+      "category": "Limpeza",
+      "price": 4.25,
+      "quantity": 131
+    },
+    {
+      "id": 84,
+      "name": "Qboa Água sanitária 0.5 L",
+      "category": "Limpeza",
+      "price": 3.44,
+      "quantity": 268
+    },
+    {
+      "id": 85,
+      "name": "Lux Sabonete 1 un",
+      "category": "Higiene",
+      "price": 2.18,
+      "quantity": 173
+    },
+    {
+      "id": 86,
+      "name": "Head & Shoulders Shampoo 500 ml",
+      "category": "Higiene",
+      "price": 14.53,
+      "quantity": 37
+    },
+    {
+      "id": 87,
+      "name": "Huggies Fralda descartável 30 un",
+      "category": "Higiene",
+      "price": 35.95,
+      "quantity": 57
+    },
+    {
+      "id": 88,
+      "name": "Elseve Condicionador 400 ml",
+      "category": "Higiene",
+      "price": 17.38,
+      "quantity": 175
+    },
+    {
+      "id": 89,
+      "name": "Personal Papel higiênico 12 un",
+      "category": "Higiene",
+      "price": 17.16,
+      "quantity": 60
+    },
+    {
+      "id": 90,
+      "name": "Johnson's Creme hidratante 100 ml",
+      "category": "Higiene",
+      "price": 14.96,
+      "quantity": 176
+    },
+    {
+      "id": 91,
+      "name": "Pullman Pão de forma 1 un",
+      "category": "Padaria",
+      "price": 9.71,
+      "quantity": 201
+    },
+    {
+      "id": 92,
+      "name": "Pão francês 1 un",
+      "category": "Padaria",
+      "price": 0.77,
+      "quantity": 221
+    },
+    {
+      "id": 93,
+      "name": "Baguete 1 un",
+      "category": "Padaria",
+      "price": 4.38,
+      "quantity": 100
+    },
+    {
+      "id": 94,
+      "name": "Risoles 1 un",
+      "category": "Padaria",
+      "price": 2.97,
+      "quantity": 242
+    },
+    {
+      "id": 95,
+      "name": "Coxinha 1 un",
+      "category": "Padaria",
+      "price": 3.66,
+      "quantity": 12
+    },
+    {
+      "id": 96,
+      "name": "Pastel 1 un",
+      "category": "Padaria",
+      "price": 4.18,
+      "quantity": 24
+    },
+    {
+      "id": 97,
+      "name": "Broa de milho 1 un",
+      "category": "Padaria",
+      "price": 5.0,
+      "quantity": 269
+    },
+    {
+      "id": 98,
+      "name": "Quata Queijo muçarela 1 kg",
+      "category": "Laticínios",
+      "price": 25.92,
+      "quantity": 221
+    },
+    {
+      "id": 99,
+      "name": "Vigor Iogurte 170 g",
+      "category": "Laticínios",
+      "price": 3.09,
+      "quantity": 99
+    },
+    {
+      "id": 100,
+      "name": "Qualy Margarina 550 g",
+      "category": "Laticínios",
+      "price": 6.8,
+      "quantity": 155
+    },
+    {
+      "id": 101,
+      "name": "Aviação Manteiga 150 g",
+      "category": "Laticínios",
+      "price": 14.66,
+      "quantity": 168
+    },
+    {
+      "id": 102,
+      "name": "Polenghi Queijo cheddar 200 g",
+      "category": "Laticínios",
+      "price": 11.18,
+      "quantity": 300
+    },
+    {
+      "id": 103,
+      "name": "Tomate 0.5 kg",
+      "category": "Hortifruti",
+      "price": 6.59,
+      "quantity": 158
+    },
+    {
+      "id": 104,
+      "name": "Banana 0.5 kg",
+      "category": "Hortifruti",
+      "price": 3.92,
+      "quantity": 200
+    },
+    {
+      "id": 105,
+      "name": "Cenoura 1.5 kg",
+      "category": "Hortifruti",
+      "price": 4.11,
+      "quantity": 286
+    },
+    {
+      "id": 106,
+      "name": "Brócolis 1 un",
+      "category": "Hortifruti",
+      "price": 4.9,
+      "quantity": 63
+    },
+    {
+      "id": 107,
+      "name": "Couve 1 un",
+      "category": "Hortifruti",
+      "price": 2.29,
+      "quantity": 151
+    },
+    {
+      "id": 108,
+      "name": "Alface 1 un",
+      "category": "Hortifruti",
+      "price": 2.23,
+      "quantity": 151
+    },
+    {
+      "id": 109,
+      "name": "Berinjela 1 kg",
+      "category": "Hortifruti",
+      "price": 7.77,
+      "quantity": 282
+    },
+    {
+      "id": 110,
+      "name": "Batata 0.5 kg",
+      "category": "Hortifruti",
+      "price": 3.96,
+      "quantity": 294
+    },
+    {
+      "id": 111,
+      "name": "Moranga 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.03,
+      "quantity": 285
+    },
+    {
+      "id": 112,
+      "name": "Laranja 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.19,
+      "quantity": 282
+    },
+    {
+      "id": 113,
+      "name": "Mamão 1 kg",
+      "category": "Hortifruti",
+      "price": 4.83,
+      "quantity": 153
+    },
+    {
+      "id": 114,
+      "name": "Uva 0.5 kg",
+      "category": "Hortifruti",
+      "price": 8.8,
+      "quantity": 1
+    },
+    {
+      "id": 115,
+      "name": "Pêra 1 kg",
+      "category": "Hortifruti",
+      "price": 7.13,
+      "quantity": 178
+    },
+    {
+      "id": 116,
+      "name": "Maçã 1 kg",
+      "category": "Hortifruti",
+      "price": 5.83,
+      "quantity": 27
+    },
+    {
+      "id": 117,
+      "name": "Tio João Arroz 5.5 kg",
+      "category": "Mercearia",
+      "price": 25.7,
+      "quantity": 274
+    },
+    {
+      "id": 118,
+      "name": "Camil Feijão 0.5 kg",
+      "category": "Mercearia",
+      "price": 8.41,
+      "quantity": 192
+    },
+    {
+      "id": 119,
+      "name": "União Açúcar 1 kg",
+      "category": "Mercearia",
+      "price": 4.24,
+      "quantity": 45
+    },
+    {
+      "id": 120,
+      "name": "Vitarella Macarrão 1 kg",
+      "category": "Mercearia",
+      "price": 3.83,
+      "quantity": 275
+    },
+    {
+      "id": 121,
+      "name": "Arisco Maionese 500 g",
+      "category": "Mercearia",
+      "price": 9.03,
+      "quantity": 244
+    },
+    {
+      "id": 122,
+      "name": "Predilecta Molho de tomate 340 g",
+      "category": "Mercearia",
+      "price": 3.06,
+      "quantity": 265
+    },
+    {
+      "id": 123,
+      "name": "Dona Benta Farinha 1 kg",
+      "category": "Mercearia",
+      "price": 5.5,
+      "quantity": 257
+    },
+    {
+      "id": 124,
+      "name": "Itambé Leite condensado 395 g",
+      "category": "Mercearia",
+      "price": 5.61,
+      "quantity": 162
+    },
+    {
+      "id": 125,
+      "name": "Cisne Sal 1.5 kg",
+      "category": "Mercearia",
+      "price": 2.3,
+      "quantity": 158
+    },
+    {
+      "id": 126,
+      "name": "Itambé Leite em pó 450 g",
+      "category": "Mercearia",
+      "price": 18.43,
+      "quantity": 56
+    },
+    {
+      "id": 127,
+      "name": "Nesquik Chocolate em pó 250 g",
+      "category": "Mercearia",
+      "price": 11.22,
+      "quantity": 30
+    },
+    {
+      "id": 128,
+      "name": "Hellmann's Ketchup 400 g",
+      "category": "Mercearia",
+      "price": 6.92,
+      "quantity": 235
+    },
+    {
+      "id": 129,
+      "name": "Hellmann's Mostarda 200 g",
+      "category": "Mercearia",
+      "price": 5.13,
+      "quantity": 147
+    },
+    {
+      "id": 130,
+      "name": "3 Corações Café 1 kg",
+      "category": "Bebidas",
+      "price": 24.3,
+      "quantity": 172
+    },
+    {
+      "id": 131,
+      "name": "Parmalat Leite 1.5 L",
+      "category": "Bebidas",
+      "price": 4.59,
+      "quantity": 238
+    },
+    {
+      "id": 132,
+      "name": "Guaraná Antarctica Refrigerante 2.5 L",
+      "category": "Bebidas",
+      "price": 7.39,
+      "quantity": 151
+    },
+    {
+      "id": 133,
+      "name": "Brahma Cerveja 0.25 L",
+      "category": "Bebidas",
+      "price": 4.45,
+      "quantity": 133
+    },
+    {
+      "id": 134,
+      "name": "Monster Energético 150 ml",
+      "category": "Bebidas",
+      "price": 6.48,
+      "quantity": 83
+    },
+    {
+      "id": 135,
+      "name": "Gatorade Isotônico 400 ml",
+      "category": "Bebidas",
+      "price": 4.74,
+      "quantity": 133
+    },
+    {
+      "id": 136,
+      "name": "Del Valle Suco 0.5 L",
+      "category": "Bebidas",
+      "price": 7.86,
+      "quantity": 248
+    },
+    {
+      "id": 137,
+      "name": "Ola Detergente 400 ml",
+      "category": "Limpeza",
+      "price": 3.78,
+      "quantity": 240
+    },
+    {
+      "id": 138,
+      "name": "Downy Amaciante 0.5 L",
+      "category": "Limpeza",
+      "price": 13.08,
+      "quantity": 268
+    },
+    {
+      "id": 139,
+      "name": "Tixan Sabão em pó 1 kg",
+      "category": "Limpeza",
+      "price": 15.7,
+      "quantity": 6
+    },
+    {
+      "id": 140,
+      "name": "Ypê Sabão em barra 200 g",
+      "category": "Limpeza",
+      "price": 3.31,
+      "quantity": 184
+    },
+    {
+      "id": 141,
+      "name": "Veja Desinfetante 0.5 L",
+      "category": "Limpeza",
+      "price": 4.11,
+      "quantity": 255
+    },
+    {
+      "id": 142,
+      "name": "Qboa Água sanitária 1 L",
+      "category": "Limpeza",
+      "price": 3.51,
+      "quantity": 9
+    },
+    {
+      "id": 143,
+      "name": "Lux Sabonete 1 un",
+      "category": "Higiene",
+      "price": 2.08,
+      "quantity": 248
+    },
+    {
+      "id": 144,
+      "name": "Elseve Shampoo 500 ml",
+      "category": "Higiene",
+      "price": 15.43,
+      "quantity": 123
+    },
+    {
+      "id": 145,
+      "name": "Pampers Fralda descartável 30 un",
+      "category": "Higiene",
+      "price": 39.25,
+      "quantity": 168
+    },
+    {
+      "id": 146,
+      "name": "Pantene Condicionador 300 ml",
+      "category": "Higiene",
+      "price": 19.32,
+      "quantity": 172
+    },
+    {
+      "id": 147,
+      "name": "Personal Papel higiênico 12 un",
+      "category": "Higiene",
+      "price": 20.26,
+      "quantity": 265
+    },
+    {
+      "id": 148,
+      "name": "Johnson's Creme hidratante 300 ml",
+      "category": "Higiene",
+      "price": 13.63,
+      "quantity": 220
+    },
+    {
+      "id": 149,
+      "name": "Pullman Pão de forma 1 un",
+      "category": "Padaria",
+      "price": 8.98,
+      "quantity": 113
+    },
+    {
+      "id": 150,
+      "name": "Pão francês 1 un",
+      "category": "Padaria",
+      "price": 0.69,
+      "quantity": 202
+    },
+    {
+      "id": 151,
+      "name": "Baguete 1 un",
+      "category": "Padaria",
+      "price": 3.45,
+      "quantity": 239
+    },
+    {
+      "id": 152,
+      "name": "Risoles 1 un",
+      "category": "Padaria",
+      "price": 3.07,
+      "quantity": 4
+    },
+    {
+      "id": 153,
+      "name": "Coxinha 1 un",
+      "category": "Padaria",
+      "price": 3.02,
+      "quantity": 55
+    },
+    {
+      "id": 154,
+      "name": "Pastel 1 un",
+      "category": "Padaria",
+      "price": 3.88,
+      "quantity": 232
+    },
+    {
+      "id": 155,
+      "name": "Broa de milho 1 un",
+      "category": "Padaria",
+      "price": 5.33,
+      "quantity": 130
+    },
+    {
+      "id": 156,
+      "name": "Tirolez Queijo muçarela 0.5 kg",
+      "category": "Laticínios",
+      "price": 24.58,
+      "quantity": 127
+    },
+    {
+      "id": 157,
+      "name": "Vigor Iogurte 220 g",
+      "category": "Laticínios",
+      "price": 2.68,
+      "quantity": 189
+    },
+    {
+      "id": 158,
+      "name": "Qualy Margarina 500 g",
+      "category": "Laticínios",
+      "price": 7.47,
+      "quantity": 141
+    },
+    {
+      "id": 159,
+      "name": "Aviação Manteiga 150 g",
+      "category": "Laticínios",
+      "price": 14.31,
+      "quantity": 162
+    },
+    {
+      "id": 160,
+      "name": "Tirolez Queijo cheddar 150 g",
+      "category": "Laticínios",
+      "price": 13.02,
+      "quantity": 34
+    },
+    {
+      "id": 161,
+      "name": "Tomate 0.5 kg",
+      "category": "Hortifruti",
+      "price": 5.74,
+      "quantity": 39
+    },
+    {
+      "id": 162,
+      "name": "Banana 0.5 kg",
+      "category": "Hortifruti",
+      "price": 4.76,
+      "quantity": 30
+    },
+    {
+      "id": 163,
+      "name": "Cenoura 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.55,
+      "quantity": 172
+    },
+    {
+      "id": 164,
+      "name": "Brócolis 1 un",
+      "category": "Hortifruti",
+      "price": 5.61,
+      "quantity": 234
+    },
+    {
+      "id": 165,
+      "name": "Couve 1 un",
+      "category": "Hortifruti",
+      "price": 2.54,
+      "quantity": 242
+    },
+    {
+      "id": 166,
+      "name": "Alface 1 un",
+      "category": "Hortifruti",
+      "price": 2.16,
+      "quantity": 31
+    },
+    {
+      "id": 167,
+      "name": "Berinjela 1 kg",
+      "category": "Hortifruti",
+      "price": 6.59,
+      "quantity": 270
+    },
+    {
+      "id": 168,
+      "name": "Batata 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.69,
+      "quantity": 230
+    },
+    {
+      "id": 169,
+      "name": "Moranga 1.5 kg",
+      "category": "Hortifruti",
+      "price": 2.69,
+      "quantity": 218
+    },
+    {
+      "id": 170,
+      "name": "Laranja 0.5 kg",
+      "category": "Hortifruti",
+      "price": 3.33,
+      "quantity": 274
+    },
+    {
+      "id": 171,
+      "name": "Mamão 1.5 kg",
+      "category": "Hortifruti",
+      "price": 4.29,
+      "quantity": 231
+    },
+    {
+      "id": 172,
+      "name": "Uva 0.5 kg",
+      "category": "Hortifruti",
+      "price": 7.65,
+      "quantity": 35
+    },
+    {
+      "id": 173,
+      "name": "Pêra 1.5 kg",
+      "category": "Hortifruti",
+      "price": 6.38,
+      "quantity": 131
+    },
+    {
+      "id": 174,
+      "name": "Maçã 1 kg",
+      "category": "Hortifruti",
+      "price": 5.9,
+      "quantity": 109
+    },
+    {
+      "id": 175,
+      "name": "Camil Arroz 4.5 kg",
+      "category": "Mercearia",
+      "price": 26.26,
+      "quantity": 240
+    },
+    {
+      "id": 176,
+      "name": "Camil Feijão 1 kg",
+      "category": "Mercearia",
+      "price": 7.78,
+      "quantity": 72
+    },
+    {
+      "id": 177,
+      "name": "Guarani Açúcar 1 kg",
+      "category": "Mercearia",
+      "price": 3.56,
+      "quantity": 44
+    },
+    {
+      "id": 178,
+      "name": "Barilla Macarrão 1 kg",
+      "category": "Mercearia",
+      "price": 3.99,
+      "quantity": 249
+    },
+    {
+      "id": 179,
+      "name": "Hellmann's Maionese 500 g",
+      "category": "Mercearia",
+      "price": 12.04,
+      "quantity": 51
+    },
+    {
+      "id": 180,
+      "name": "Heinz Molho de tomate 390 g",
+      "category": "Mercearia",
+      "price": 3.56,
+      "quantity": 22
+    },
+    {
+      "id": 181,
+      "name": "Renata Farinha 0.5 kg",
+      "category": "Mercearia",
+      "price": 4.8,
+      "quantity": 26
+    },
+    {
+      "id": 182,
+      "name": "Itambé Leite condensado 395 g",
+      "category": "Mercearia",
+      "price": 6.94,
+      "quantity": 124
+    },
+    {
+      "id": 183,
+      "name": "Refinador Sal 1.5 kg",
+      "category": "Mercearia",
+      "price": 2.45,
+      "quantity": 22
+    },
+    {
+      "id": 184,
+      "name": "Itambé Leite em pó 450 g",
+      "category": "Mercearia",
+      "price": 21.62,
+      "quantity": 154
+    },
+    {
+      "id": 185,
+      "name": "Toddy Chocolate em pó 200 g",
+      "category": "Mercearia",
+      "price": 10.96,
+      "quantity": 283
+    },
+    {
+      "id": 186,
+      "name": "Heinz Ketchup 400 g",
+      "category": "Mercearia",
+      "price": 8.0,
+      "quantity": 250
+    },
+    {
+      "id": 187,
+      "name": "Hellmann's Mostarda 150 g",
+      "category": "Mercearia",
+      "price": 5.68,
+      "quantity": 278
+    },
+    {
+      "id": 188,
+      "name": "Melitta Café 0.5 kg",
+      "category": "Bebidas",
+      "price": 21.89,
+      "quantity": 132
+    },
+    {
+      "id": 189,
+      "name": "Parmalat Leite 1.5 L",
+      "category": "Bebidas",
+      "price": 4.9,
+      "quantity": 207
+    },
+    {
+      "id": 190,
+      "name": "Guaraná Antarctica Refrigerante 2.5 L",
+      "category": "Bebidas",
+      "price": 8.2,
+      "quantity": 83
+    },
+    {
+      "id": 191,
+      "name": "Brahma Cerveja 0.35 L",
+      "category": "Bebidas",
+      "price": 3.97,
+      "quantity": 201
+    },
+    {
+      "id": 192,
+      "name": "Monster Energético 150 ml",
+      "category": "Bebidas",
+      "price": 5.12,
+      "quantity": 5
+    },
+    {
+      "id": 193,
+      "name": "Powerade Isotônico 500 ml",
+      "category": "Bebidas",
+      "price": 4.47,
+      "quantity": 129
+    },
+    {
+      "id": 194,
+      "name": "Del Valle Suco 0.5 L",
+      "category": "Bebidas",
+      "price": 8.03,
+      "quantity": 103
+    },
+    {
+      "id": 195,
+      "name": "Ola Detergente 500 ml",
+      "category": "Limpeza",
+      "price": 3.45,
+      "quantity": 208
+    },
+    {
+      "id": 196,
+      "name": "Downy Amaciante 1.5 L",
+      "category": "Limpeza",
+      "price": 12.25,
+      "quantity": 151
+    },
+    {
+      "id": 197,
+      "name": "Omo Sabão em pó 0.5 kg",
+      "category": "Limpeza",
+      "price": 18.17,
+      "quantity": 67
+    },
+    {
+      "id": 198,
+      "name": "Ypê Sabão em barra 250 g",
+      "category": "Limpeza",
+      "price": 3.0,
+      "quantity": 223
+    },
+    {
+      "id": 199,
+      "name": "Pinho Sol Desinfetante 0.5 L",
+      "category": "Limpeza",
+      "price": 4.39,
+      "quantity": 140
+    },
+    {
+      "id": 200,
+      "name": "Candura Água sanitária 1.5 L",
+      "category": "Limpeza",
+      "price": 2.67,
+      "quantity": 7
+    },
+    {
+      "id": 201,
+      "name": "Nivea Sabonete 1 un",
+      "category": "Higiene",
+      "price": 2.3,
+      "quantity": 274
+    },
+    {
+      "id": 202,
+      "name": "Head & Shoulders Shampoo 400 ml",
+      "category": "Higiene",
+      "price": 16.35,
+      "quantity": 209
+    },
+    {
+      "id": 203,
+      "name": "Pampers Fralda descartável 30 un",
+      "category": "Higiene",
+      "price": 38.8,
+      "quantity": 207
+    },
+    {
+      "id": 204,
+      "name": "Pantene Condicionador 500 ml",
+      "category": "Higiene",
+      "price": 15.71,
+      "quantity": 121
+    },
+    {
+      "id": 205,
+      "name": "Personal Papel higiênico 12 un",
+      "category": "Higiene",
+      "price": 15.35,
+      "quantity": 95
+    },
+    {
+      "id": 206,
+      "name": "Nivea Creme hidratante 100 ml",
+      "category": "Higiene",
+      "price": 13.72,
+      "quantity": 90
+    },
+    {
+      "id": 207,
+      "name": "Pullman Pão de forma 1 un",
+      "category": "Padaria",
+      "price": 9.49,
+      "quantity": 172
+    },
+    {
+      "id": 208,
+      "name": "Pão francês 1 un",
+      "category": "Padaria",
+      "price": 0.91,
+      "quantity": 24
+    },
+    {
+      "id": 209,
+      "name": "Baguete 1 un",
+      "category": "Padaria",
+      "price": 4.26,
+      "quantity": 81
+    },
+    {
+      "id": 210,
+      "name": "Risoles 1 un",
+      "category": "Padaria",
+      "price": 2.73,
+      "quantity": 60
+    },
+    {
+      "id": 211,
+      "name": "Coxinha 1 un",
+      "category": "Padaria",
+      "price": 3.9,
+      "quantity": 258
+    },
+    {
+      "id": 212,
+      "name": "Pastel 1 un",
+      "category": "Padaria",
+      "price": 4.17,
+      "quantity": 124
+    },
+    {
+      "id": 213,
+      "name": "Broa de milho 1 un",
+      "category": "Padaria",
+      "price": 4.35,
+      "quantity": 32
+    },
+    {
+      "id": 214,
+      "name": "Tirolez Queijo muçarela 1 kg",
+      "category": "Laticínios",
+      "price": 26.65,
+      "quantity": 175
+    },
+    {
+      "id": 215,
+      "name": "Nestlé Iogurte 170 g",
+      "category": "Laticínios",
+      "price": 3.07,
+      "quantity": 270
+    },
+    {
+      "id": 216,
+      "name": "Qualy Margarina 500 g",
+      "category": "Laticínios",
+      "price": 5.94,
+      "quantity": 92
+    },
+    {
+      "id": 217,
+      "name": "Aviação Manteiga 200 g",
+      "category": "Laticínios",
+      "price": 17.08,
+      "quantity": 59
+    },
+    {
+      "id": 218,
+      "name": "Polenghi Queijo cheddar 200 g",
+      "category": "Laticínios",
+      "price": 14.46,
+      "quantity": 16
+    },
+    {
+      "id": 219,
+      "name": "Tomate 1.5 kg",
+      "category": "Hortifruti",
+      "price": 7.16,
+      "quantity": 244
+    },
+    {
+      "id": 220,
+      "name": "Banana 1 kg",
+      "category": "Hortifruti",
+      "price": 4.66,
+      "quantity": 59
+    },
+    {
+      "id": 221,
+      "name": "Cenoura 1 kg",
+      "category": "Hortifruti",
+      "price": 3.81,
+      "quantity": 163
+    },
+    {
+      "id": 222,
+      "name": "Brócolis 1 un",
+      "category": "Hortifruti",
+      "price": 5.2,
+      "quantity": 66
+    },
+    {
+      "id": 223,
+      "name": "Couve 1 un",
+      "category": "Hortifruti",
+      "price": 2.23,
+      "quantity": 70
+    },
+    {
+      "id": 224,
+      "name": "Alface 1 un",
+      "category": "Hortifruti",
+      "price": 1.91,
+      "quantity": 166
+    },
+    {
+      "id": 225,
+      "name": "Berinjela 1.5 kg",
+      "category": "Hortifruti",
+      "price": 6.37,
+      "quantity": 201
+    },
+    {
+      "id": 226,
+      "name": "Batata 1.5 kg",
+      "category": "Hortifruti",
+      "price": 2.98,
+      "quantity": 183
+    },
+    {
+      "id": 227,
+      "name": "Moranga 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.19,
+      "quantity": 169
+    },
+    {
+      "id": 228,
+      "name": "Laranja 1 kg",
+      "category": "Hortifruti",
+      "price": 3.19,
+      "quantity": 40
+    },
+    {
+      "id": 229,
+      "name": "Mamão 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.77,
+      "quantity": 24
+    },
+    {
+      "id": 230,
+      "name": "Uva 0.5 kg",
+      "category": "Hortifruti",
+      "price": 7.44,
+      "quantity": 235
+    },
+    {
+      "id": 231,
+      "name": "Pêra 0.5 kg",
+      "category": "Hortifruti",
+      "price": 8.09,
+      "quantity": 118
+    },
+    {
+      "id": 232,
+      "name": "Maçã 0.5 kg",
+      "category": "Hortifruti",
+      "price": 5.86,
+      "quantity": 7
+    },
+    {
+      "id": 233,
+      "name": "Camil Arroz 5.5 kg",
+      "category": "Mercearia",
+      "price": 31.98,
+      "quantity": 91
+    },
+    {
+      "id": 234,
+      "name": "Kicaldo Feijão 1.5 kg",
+      "category": "Mercearia",
+      "price": 9.87,
+      "quantity": 90
+    },
+    {
+      "id": 235,
+      "name": "Guarani Açúcar 1 kg",
+      "category": "Mercearia",
+      "price": 3.5,
+      "quantity": 216
+    },
+    {
+      "id": 236,
+      "name": "Vitarella Macarrão 0.25 kg",
+      "category": "Mercearia",
+      "price": 4.56,
+      "quantity": 9
+    },
+    {
+      "id": 237,
+      "name": "Arisco Maionese 500 g",
+      "category": "Mercearia",
+      "price": 11.03,
+      "quantity": 173
+    },
+    {
+      "id": 238,
+      "name": "Heinz Molho de tomate 390 g",
+      "category": "Mercearia",
+      "price": 3.87,
+      "quantity": 36
+    },
+    {
+      "id": 239,
+      "name": "Renata Farinha 1 kg",
+      "category": "Mercearia",
+      "price": 4.59,
+      "quantity": 121
+    },
+    {
+      "id": 240,
+      "name": "Nestlé Leite condensado 395 g",
+      "category": "Mercearia",
+      "price": 5.74,
+      "quantity": 193
+    },
+    {
+      "id": 241,
+      "name": "Refinador Sal 1.5 kg",
+      "category": "Mercearia",
+      "price": 2.15,
+      "quantity": 170
+    },
+    {
+      "id": 242,
+      "name": "Itambé Leite em pó 400 g",
+      "category": "Mercearia",
+      "price": 17.14,
+      "quantity": 224
+    },
+    {
+      "id": 243,
+      "name": "Toddy Chocolate em pó 150 g",
+      "category": "Mercearia",
+      "price": 8.68,
+      "quantity": 97
+    },
+    {
+      "id": 244,
+      "name": "Hellmann's Ketchup 450 g",
+      "category": "Mercearia",
+      "price": 8.11,
+      "quantity": 235
+    },
+    {
+      "id": 245,
+      "name": "Heinz Mostarda 150 g",
+      "category": "Mercearia",
+      "price": 5.52,
+      "quantity": 126
+    },
+    {
+      "id": 246,
+      "name": "3 Corações Café 1 kg",
+      "category": "Bebidas",
+      "price": 23.88,
+      "quantity": 36
+    },
+    {
+      "id": 247,
+      "name": "Parmalat Leite 0.5 L",
+      "category": "Bebidas",
+      "price": 4.61,
+      "quantity": 69
+    },
+    {
+      "id": 248,
+      "name": "Coca-Cola Refrigerante 2 L",
+      "category": "Bebidas",
+      "price": 8.64,
+      "quantity": 89
+    },
+    {
+      "id": 249,
+      "name": "Brahma Cerveja 0.85 L",
+      "category": "Bebidas",
+      "price": 4.6,
+      "quantity": 10
+    },
+    {
+      "id": 250,
+      "name": "Monster Energético 350 ml",
+      "category": "Bebidas",
+      "price": 5.28,
+      "quantity": 135
+    },
+    {
+      "id": 251,
+      "name": "Gatorade Isotônico 500 ml",
+      "category": "Bebidas",
+      "price": 5.0,
+      "quantity": 162
+    },
+    {
+      "id": 252,
+      "name": "Do Bem Suco 1.5 L",
+      "category": "Bebidas",
+      "price": 7.58,
+      "quantity": 73
+    },
+    {
+      "id": 253,
+      "name": "Ola Detergente 600 ml",
+      "category": "Limpeza",
+      "price": 3.11,
+      "quantity": 6
+    },
+    {
+      "id": 254,
+      "name": "Comfort Amaciante 0.5 L",
+      "category": "Limpeza",
+      "price": 13.77,
+      "quantity": 123
+    },
+    {
+      "id": 255,
+      "name": "Omo Sabão em pó 1 kg",
+      "category": "Limpeza",
+      "price": 16.74,
+      "quantity": 247
+    },
+    {
+      "id": 256,
+      "name": "Minuano Sabão em barra 150 g",
+      "category": "Limpeza",
+      "price": 2.74,
+      "quantity": 295
+    },
+    {
+      "id": 257,
+      "name": "Pinho Sol Desinfetante 1 L",
+      "category": "Limpeza",
+      "price": 4.51,
+      "quantity": 235
+    },
+    {
+      "id": 258,
+      "name": "Candura Água sanitária 1 L",
+      "category": "Limpeza",
+      "price": 3.15,
+      "quantity": 68
+    },
+    {
+      "id": 259,
+      "name": "Nivea Sabonete 1 un",
+      "category": "Higiene",
+      "price": 2.17,
+      "quantity": 2
+    },
+    {
+      "id": 260,
+      "name": "Head & Shoulders Shampoo 400 ml",
+      "category": "Higiene",
+      "price": 16.5,
+      "quantity": 281
+    },
+    {
+      "id": 261,
+      "name": "Huggies Fralda descartável 30 un",
+      "category": "Higiene",
+      "price": 36.74,
+      "quantity": 177
+    },
+    {
+      "id": 262,
+      "name": "Elseve Condicionador 300 ml",
+      "category": "Higiene",
+      "price": 18.34,
+      "quantity": 187
+    },
+    {
+      "id": 263,
+      "name": "Personal Papel higiênico 12 un",
+      "category": "Higiene",
+      "price": 15.53,
+      "quantity": 96
+    },
+    {
+      "id": 264,
+      "name": "Johnson's Creme hidratante 200 ml",
+      "category": "Higiene",
+      "price": 14.09,
+      "quantity": 248
+    },
+    {
+      "id": 265,
+      "name": "Pullman Pão de forma 1 un",
+      "category": "Padaria",
+      "price": 9.0,
+      "quantity": 181
+    },
+    {
+      "id": 266,
+      "name": "Pão francês 1 un",
+      "category": "Padaria",
+      "price": 0.78,
+      "quantity": 13
+    },
+    {
+      "id": 267,
+      "name": "Baguete 1 un",
+      "category": "Padaria",
+      "price": 4.09,
+      "quantity": 1
+    },
+    {
+      "id": 268,
+      "name": "Risoles 1 un",
+      "category": "Padaria",
+      "price": 2.85,
+      "quantity": 102
+    },
+    {
+      "id": 269,
+      "name": "Coxinha 1 un",
+      "category": "Padaria",
+      "price": 3.38,
+      "quantity": 16
+    },
+    {
+      "id": 270,
+      "name": "Pastel 1 un",
+      "category": "Padaria",
+      "price": 3.8,
+      "quantity": 24
+    },
+    {
+      "id": 271,
+      "name": "Broa de milho 1 un",
+      "category": "Padaria",
+      "price": 5.69,
+      "quantity": 276
+    },
+    {
+      "id": 272,
+      "name": "Quata Queijo muçarela 1 kg",
+      "category": "Laticínios",
+      "price": 29.05,
+      "quantity": 141
+    },
+    {
+      "id": 273,
+      "name": "Vigor Iogurte 120 g",
+      "category": "Laticínios",
+      "price": 2.47,
+      "quantity": 60
+    },
+    {
+      "id": 274,
+      "name": "Delícia Margarina 500 g",
+      "category": "Laticínios",
+      "price": 7.02,
+      "quantity": 228
+    },
+    {
+      "id": 275,
+      "name": "Aviação Manteiga 150 g",
+      "category": "Laticínios",
+      "price": 14.35,
+      "quantity": 159
+    },
+    {
+      "id": 276,
+      "name": "Polenghi Queijo cheddar 250 g",
+      "category": "Laticínios",
+      "price": 12.9,
+      "quantity": 141
+    },
+    {
+      "id": 277,
+      "name": "Tomate 1.5 kg",
+      "category": "Hortifruti",
+      "price": 7.1,
+      "quantity": 30
+    },
+    {
+      "id": 278,
+      "name": "Banana 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.97,
+      "quantity": 299
+    },
+    {
+      "id": 279,
+      "name": "Cenoura 0.5 kg",
+      "category": "Hortifruti",
+      "price": 4.3,
+      "quantity": 177
+    },
+    {
+      "id": 280,
+      "name": "Brócolis 1 un",
+      "category": "Hortifruti",
+      "price": 5.36,
+      "quantity": 156
+    },
+    {
+      "id": 281,
+      "name": "Couve 1 un",
+      "category": "Hortifruti",
+      "price": 2.28,
+      "quantity": 2
+    },
+    {
+      "id": 282,
+      "name": "Alface 1 un",
+      "category": "Hortifruti",
+      "price": 2.13,
+      "quantity": 94
+    },
+    {
+      "id": 283,
+      "name": "Berinjela 1 kg",
+      "category": "Hortifruti",
+      "price": 7.18,
+      "quantity": 108
+    },
+    {
+      "id": 284,
+      "name": "Batata 1.5 kg",
+      "category": "Hortifruti",
+      "price": 3.8,
+      "quantity": 293
+    },
+    {
+      "id": 285,
+      "name": "Moranga 0.5 kg",
+      "category": "Hortifruti",
+      "price": 3.06,
+      "quantity": 161
+    },
+    {
+      "id": 286,
+      "name": "Laranja 1 kg",
+      "category": "Hortifruti",
+      "price": 3.61,
+      "quantity": 135
+    },
+    {
+      "id": 287,
+      "name": "Mamão 1 kg",
+      "category": "Hortifruti",
+      "price": 4.44,
+      "quantity": 161
+    },
+    {
+      "id": 288,
+      "name": "Uva 1 kg",
+      "category": "Hortifruti",
+      "price": 7.88,
+      "quantity": 1
+    },
+    {
+      "id": 289,
+      "name": "Pêra 1 kg",
+      "category": "Hortifruti",
+      "price": 8.5,
+      "quantity": 284
+    },
+    {
+      "id": 290,
+      "name": "Maçã 0.5 kg",
+      "category": "Hortifruti",
+      "price": 5.26,
+      "quantity": 263
+    },
+    {
+      "id": 291,
+      "name": "Namorado Arroz 4.5 kg",
+      "category": "Mercearia",
+      "price": 28.42,
+      "quantity": 24
+    },
+    {
+      "id": 292,
+      "name": "Camil Feijão 1.5 kg",
+      "category": "Mercearia",
+      "price": 9.86,
+      "quantity": 259
+    },
+    {
+      "id": 293,
+      "name": "União Açúcar 0.5 kg",
+      "category": "Mercearia",
+      "price": 4.23,
+      "quantity": 223
+    },
+    {
+      "id": 294,
+      "name": "Vitarella Macarrão 0.5 kg",
+      "category": "Mercearia",
+      "price": 4.23,
+      "quantity": 279
+    },
+    {
+      "id": 295,
+      "name": "Hellmann's Maionese 450 g",
+      "category": "Mercearia",
+      "price": 10.61,
+      "quantity": 140
+    },
+    {
+      "id": 296,
+      "name": "Elefante Molho de tomate 340 g",
+      "category": "Mercearia",
+      "price": 3.61,
+      "quantity": 174
+    },
+    {
+      "id": 297,
+      "name": "Dona Benta Farinha 1 kg",
+      "category": "Mercearia",
+      "price": 5.11,
+      "quantity": 154
+    },
+    {
+      "id": 298,
+      "name": "Itambé Leite condensado 445 g",
+      "category": "Mercearia",
+      "price": 5.79,
+      "quantity": 83
+    },
+    {
+      "id": 299,
+      "name": "Refinador Sal 0.5 kg",
+      "category": "Mercearia",
+      "price": 2.22,
+      "quantity": 36
+    },
+    {
+      "id": 300,
+      "name": "Itambé Leite em pó 350 g",
+      "category": "Mercearia",
+      "price": 19.55,
+      "quantity": 202
+    }
   ]
 }
